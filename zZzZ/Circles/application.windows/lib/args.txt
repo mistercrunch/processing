@@ -1,0 +1,3 @@
+ -Xms64m -Xmx512m
+Circles
+Circles.jar,core.jar
